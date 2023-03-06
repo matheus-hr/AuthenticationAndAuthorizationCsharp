@@ -1,4 +1,4 @@
-# Autenticação e Autorização
+# Autenticação e Autorização com Bearer e JWT
 
 Baseado no artigo do balta do site balta.io
 
